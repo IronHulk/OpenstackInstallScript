@@ -2,7 +2,7 @@
 This python script was developed when i was doing my intership. It was aimed to setup openstack cloud platform in one go.
 The script was designed for Openstack Juno using Ubuntu 14.04 LTS.
 
-<b>Warning</b>
+<!!!>Warning</!!!>:
 Since I don't work with openstack any more, for more detailed  and updated information, please refer to 
 the offical openstack documentation --> http://docs.openstack.org
 
