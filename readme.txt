@@ -4,8 +4,7 @@ This python script was developed during my internship. The goal was to deploy a 
 Since I no longer work in the company and openstack is still in rapid deployment, for more detailed  and updated information please consult the offical openstack documentation --> http://docs.openstack.org
 
 Notes:
-if you encounter "Error: Unauthorized: Unable to get nova services list", Please Try to restart nova services
-manually:
+if you encounter "Error: Unauthorized: Unable to get nova services list", Please Try to restart nova services manually:
 1. sudo nova-manage db sync
 2. sudo service nova-api restart
 3. sudo service nova-cert restart
